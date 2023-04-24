@@ -122,3 +122,8 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+CRAFTGATE_BASE_URL = 'https://sandbox-api.craftgate.io'
+CRAFTGATE_API_KEY = 'sandbox-lRbJrriwrVELcbmYotAcyaZglWmRSBnh'
+CRAFTGATE_SECRET_KEY = 'sandbox-EasuerenJrydAWtoldiRcbtSRQigBmVt'
